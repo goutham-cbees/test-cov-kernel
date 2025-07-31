@@ -1,4 +1,4 @@
- <h1 align="center" >Welcome to Kernelhub</h1>
+ <h1 align="center" >Welcome to Kernelhubs</h1>
  <p align="center">
     <a href="https://github.com/Ascotbe/Kernelhub"><img alt="Release" src="https://img.shields.io/badge/Ascotbe-Kernelhub-green"></a>
      <a href="https://github.com/Ascotbe/Kernelhub"><img alt="Release" src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/Ascotbe/Kernelhub/README.md"></a>
